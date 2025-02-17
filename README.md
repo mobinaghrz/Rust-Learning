@@ -1,2 +1,2 @@
 # Rust-Learning
-with main websit
+with the main website
